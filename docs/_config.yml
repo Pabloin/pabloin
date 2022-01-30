@@ -51,7 +51,12 @@ about_profile_image: images/pablo_ezequiel_inchausti_gh.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
 
-  I love play chess, and learn about cloud computing in general
+  I love play chess, and learn about cloud computing in general,
+  as part of my interest, I am part of the Community Builder Program of AWS,
+  a great community to learn and share about AWS.
+
+  And I also love share and learn about last technologies trends throught "The Ninja Project", 
+  a great community of ninja's in thech hosted in the company were I work on, BBVA
 
   I am most skilled in <mark>AWS</mark> and <mark>software development</mark>
 
@@ -90,6 +95,15 @@ content:
 
           After finished my studies in UADE I have the opportunity to became a techer 
 
+      - layout: left
+        title: UNS
+        caption: 1994 - 2000
+        sub_title: Licenciatura en Ciencias de la Computación
+        quote: >
+          Universidad Nacional del Sur
+        description: | # this will include new lines to allow paragraphs
+          A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -113,8 +127,8 @@ content:
       - AWS Communit Builder
       - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+# Look at this cool image  
+# ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
