@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Pablo
+name: Pablo Ezequiel Inchausti
 title: Software Engineer
 email: pablo.ezequiel.inchausti@gmail.com
-website: www.github.com/pabloin
+website: inchausti.ar
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -47,11 +47,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pablo_ezequiel_inchausti_gh.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pablo and I'm a software engineer. 
-  As well as administrating systems I also have experience making software and web apps. 
-  I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
+
+  I love play chess, and learn about cloud computing in general
 
   I am most skilled in <mark>AWS</mark> and <mark>software development</mark>
 
@@ -60,8 +60,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Glaciar.org
+        link: github.com/glaciar-org
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -71,49 +71,50 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is "Glaciar" a software to visualize open data about water and environmental information and give quality information
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I did this project in 2018-2019 as the final Thesis of a Master in Techinolgy 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: UADE
+        caption: 2018 - 2020
+        sub_title: Maestría en Tecnología y Comunicaciones
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Universidad Argentina de la Empresa
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Study in UADE was not only return to the uniersity, but also a grow up time in personal and profeesional way
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          After finished my studies in UADE I have the opportunity to became a techer 
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BBVA
+        link: bbva.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: 2001 - Present
+        quote: >
+          Engineering ~ Argentina*
+        description: | # this will include new lines to allow paragraphs
+          The technology is crucial in the finantial sector and crucial for an excelent client relation. In the bank I worked in may roles related to the digital chanles, like software development web and mobile for retail and corporate, and roles with devops and software architecture 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests as software engineering some of my other interests and hobbies are:
+      - Chees player!
+      - Love Diving when I have the change
+      - AWS Communit Builder
+      - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
