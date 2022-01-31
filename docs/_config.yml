@@ -60,7 +60,10 @@ about_content: | # this will include new lines to allow paragraphs
   And I also love share and learn about last technologies trends throught "The Ninja Project", 
   a great community of ninja's in thech hosted in the company were I work on, BBVA
 
-  I am most skilled in <mark>AWS</mark> and <mark>software development</mark>
+  I am most skilled in <mark>AWS</mark> and <mark>software development</mark>, 
+  and also [I have some certifications](https://www.credly.com/users/pablo-ezequiel-inchausti/badges), 
+  mostly in cloud related technologies 
+
 
 content:
   - title: Projects # Title for the section
@@ -125,9 +128,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests as software engineering some of my other interests and hobbies are:
       - Chees player!
-      - Love Diving when I have the change
+      - Love Diving when I have the chance
       - AWS Communit Builder
-      - 
       - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
 
 # Look at this cool image  
