@@ -78,8 +78,6 @@ content:
         title: Nerdearla 2023
         caption: 26 sept 2023
         sub_title: Argentina
-        # quote: >
-        #   Racing with AWS DeepRacer Student
         description: | 
           [Racing with AWS DeepRacer Student](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==) 
           
@@ -90,8 +88,6 @@ content:
         title: Nerdearla 2023
         caption: 27 sept 2023
         sub_title: Argentina
-        # quote: >
-        #   El Ciclo de Testing en Web y Mobile
         description: | 
           [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
           
@@ -102,26 +98,63 @@ content:
         title: AWS Community Day
         caption: 1994 - 2000
         sub_title: Licenciatura en Ciencias de la Computación
-        # quote: >
-        #   Reinforce Learning in AWS DeepRacer
         description: | # this will include new lines to allow paragraphs
           [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
-          
+
+
+      - layout: left
+        title: AWS CLoud Practitioner Challenge
+        caption: TBD
+        sub_title: AWS CLoud Practitioner Challenge
+        description: | # this will include new lines to allow paragraphs
+          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+
+
+
+      - layout: left
+        title: AWS re:Invent Recap
+        caption: TBD
+        sub_title: AWS re:Invent Recap
+        description: | # this will include new lines to allow paragraphs
+          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+
+
+
          
-
-
       - layout: left
         title: Nerdearla 2022
         caption: October 21, 2022
         sub_title: Argentina
-        # quote: >
-        #   Esencial en AWS: Construir una VPC desde cero
         description: | 
           [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
           
           In this workshop, we build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. 
           
-          Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured
+          Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured.
+          The talk was given in the context of the AWS Community Builder program.
+
+      - layout: left
+        title: Nerdearla 2022
+        caption: October 21, 2022
+        sub_title: Argentina
+        description: | 
+          [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4) 
+          
+          Cón más de 500 personas en línea, en esta charla compartimos acerrca de las iniciativas que se llevan adelante en el BBVA a nivel global con Micro Frontends. La charla corresponde al espacio sponsor del BBVA en Nerdearla 2022 
+
+
+      - layout: left
+        title: 50 JAIIO - ASSE
+        caption: October 21, 2022
+        sub_title: Argentina
+        description: | 
+          [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=1OXVz_mkMX4&t=21372s) 
+          
+          Presentamos en la 50 JAIIO la charla de "Micro Frontends" para describir lo que se está haciendo en el BBVA con esta tecnología.
+          Espacio Sponsor del BBVA Argentina dentro del Congreso.
+
+
+
 
 
 
