@@ -50,7 +50,7 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/pablo_ezequiel_inchausti_gh.jpeg
 about_profile_image: images/pablo-ezequiel-inchausti-uade.png
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
 
   I like to play chess, and learn about cloud computing,
@@ -98,29 +98,45 @@ content:
         title: AWS Community Day
         caption: 1994 - 2000
         sub_title: Licenciatura en Ciencias de la Computación
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+
+
+
+      - layout: left
+        title: AWS User Group Buenos Aires
+        caption: TBD
+        sub_title: SageMaker
+        description: | 
+          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+
 
 
       - layout: left
         title: AWS CLoud Practitioner Challenge
         caption: TBD
         sub_title: AWS CLoud Practitioner Challenge
-        description: | # this will include new lines to allow paragraphs
-          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+        description: | 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/watch?v=156Qovhl9tk&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=1) 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2) 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 3 "EC2"](https://www.youtube.com/watch?v=bXtb3YViJLA&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=4) 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 4 "AWS Elastic Load Balancers y Auto Scaling"](https://www.youtube.com/watch?v=b4_OMyQHXgU&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=6) 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 5 "Storage (EBS, EFS, S3) + Monitoring/Log"](https://www.youtube.com/watch?v=GqYKhnqDDeI&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=7) 
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 11 "TIPS""](https://www.youtube.com/watch?v=lnPkemd01LM&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=13) 
 
-
+          Playlist Completa:
+          [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE](https://www.youtube.com/playlist?list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8)
 
       - layout: left
-        title: AWS re:Invent Recap
-        caption: TBD
-        sub_title: AWS re:Invent Recap
-        description: | # this will include new lines to allow paragraphs
-          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+        title: AWS User Group Buenos Aires
+        caption: Febrero 8, 2023
+        sub_title: Canal Youtube "Cloud en Español"
+        description: | 
+          [Recap Re:Invent 2022](https://www.youtube.com/watch?v=jRFe2KXk5AU)
+
+          Junto a Ricardo Ceci y Gastón Silbestein compartimos el re:Cap del evento AWS re:Invent 2022 dirigido a la comunidad de AWS User Group Buenos Aires
 
 
-
-         
       - layout: left
         title: Nerdearla 2022
         caption: October 21, 2022
@@ -174,7 +190,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is "Glaciar" a software to visualize open data about water and environmental information and give quality information
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           I did this project in 2018-2019 as the final Thesis of a Master in Techinolgy 
 
 
@@ -187,7 +203,7 @@ content:
         sub_title: Maestría en Tecnología y Comunicaciones
         quote: >
           Universidad Argentina de la Empresa
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
 
           After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/) I have the opportunity to became a techer 
@@ -198,7 +214,7 @@ content:
         sub_title: Licenciatura en Ciencias de la Computación
         quote: >
           Universidad Nacional del Sur
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
 
   - title: Experience
@@ -212,12 +228,12 @@ content:
         caption: 2001 - Present
         quote: >
           Engineering ~ Argentina
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           The technology is crucial in the finantial sector and crucial for an excelent client relation. In the bank I worked in may roles related to the digital chanles, like software development web and mobile for retail and corporate, and roles with devops and software architecture 
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Alongside my interests as software engineering some of my other interests and hobbies are:
       - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin)!
       - Love Diving when I have the chance
