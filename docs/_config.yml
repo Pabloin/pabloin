@@ -114,9 +114,13 @@ content:
 
       - layout: left
         title: AWS CLoud Practitioner Challenge
-        caption: TBD
+        caption: Abril a Junio de 2023
         sub_title: AWS CLoud Practitioner Challenge
         description: | 
+          Con el AWS User Group Bueno Aires dimos el #Challenge para la certificación de Cloud Practitioner
+          Con más de 400 usuarios en línea cada semana y casi 80 personas que lograron pasar su certificación
+          Transmición en vivo por Youtube e interacción con la comunidad por Discord
+          
           [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/watch?v=156Qovhl9tk&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=1) 
           [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2) 
           [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 3 "EC2"](https://www.youtube.com/watch?v=bXtb3YViJLA&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=4) 
