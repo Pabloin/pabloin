@@ -73,6 +73,34 @@ content:
   - title: Talks
     layout: list
     content:
+
+      - layout: left
+        title: Nerdearla 2023
+        caption: 26 sept 2023
+        sub_title: Argentina
+        quote: >
+          Racing with AWS DeepRacer Student
+        description: | 
+          [Racing with AWS DeepRacer Student](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==) 
+          
+          "La plataforma "AWS DeepRacer" permite aprender sobre Machine Learning y Reinforcement Learning mientras se compite por recorrer un circuito en el menor tiempo posible. La liga "Student", en particular, permite competir en circuitos con fines educativos, y sin riesgos de generar costos de infraestructura. En este workshop se explorará el entorno, se discutirá sobre el entrenamiento de los modelos y las herramientas disponibles para la analítica de los logs de la carrera. Como parte del cierre se propone una competencia virtual dentro de "AWS Deep Racer Student" e identificar a uno o más ganadores entre los participantes del taller. Sobre Pablo Ezequiel Inchausti: Mi nombre es Pablo Ezequiel Inchausti y me apasiona la tecnología. Dentro de IT, mi carrera estuvo asociada a la industria financiera. Actualmente también me desempeño como Docente Investigador en UADE y formo parte desde hace tres años del programa AWS Community Builders Sobre Matias Kreder: Software Engineer with more than 15 years of experience in ML, DevOps and Development roles. Leading global-distributed remote teams at startups and large organizations. AWS DeepRacer Finalist at AWS Re:Invent in Las Vegas."
+
+
+      - layout: left
+        title: Nerdearla 2023
+        caption: 27 sept 2023
+        sub_title: Argentina
+        quote: >
+          El Ciclo de Testing en Web y Mobile
+        description: | 
+          [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
+          
+          "Desde BBVA Argentina queremos compartir nuestra experiencia del ciclo de testing en los equipos de Web y Mobile. En particular, recorreremos el Testing de Accesibilidad, el Testing Funcional Manual y Automatizado en un contexto Ágil, el Testing Unitario, el Testing de Integración y compartiremos cómo se aplican estos ciclos de testing con herramientas como JAWS, WebDriverIO, JUnit, JEST, entre otras. 
+          Te esperamos en esta charla que refleja en parte nuestra cultura en el BBVA."
+
+
+
+
       - layout: left
         title: Nerdearla 2022
         caption: October 21, 2022
