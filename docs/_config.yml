@@ -65,7 +65,11 @@ about_content: | # this will include new lines to allow paragraphs
   mostly in cloud related technologies 
 
 
+
+
 content:
+
+
   - title: Talks
     layout: list
     content:
@@ -89,7 +93,6 @@ content:
 
 
 
-content:
   - title: Projects
     layout: list
     content:
