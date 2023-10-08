@@ -106,16 +106,18 @@ content:
       - layout: left
         title: AWS User Group Buenos Aires
         caption: Agosto 29, 2023
-        sub_title: SageMaker
+        sub_title: Presencial, en las oficinas de AWS Argentina
         description: | 
           [Generative AI - SageMaker](https://www.youtube.com/live/JhN0SbRNt64?si=Qq4CNQmGwEgf4M7_&t=2315) 
 
-
+          Junto a Ricardo Ceci compartimos contenidos de Inteligencia Artificial en un Meet UP del AWS User Group Buenos Aires, 
+          realizado de forma presencial en las oficinas de AWS Argentina con casi 50 personas presentes.
+          En los contenidos, Ricardo habló sobre "Generative AI" y yo sobre "SageMaker"
 
       - layout: left
         title: AWS Cloud Practitioner Challenge
         caption: Abril a Junio de 2023
-        sub_title: Presencial, en las oficinas de AWS Argentina
+        sub_title: Canal Youtube - AWS User Group Buenos Aires
         description: | 
           Con el AWS User Group Bueno Aires dimos el #Challenge para la certificación de Cloud Practitioner
           Con más de 400 usuarios en línea cada semana y casi 80 personas que lograron pasar su certificación
@@ -166,8 +168,12 @@ content:
         sub_title: Argentina
         description: | 
           [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4) 
-          
+
+          [Entrevista "En vivo desde Nerdearla"](https://www.youtube.com/watch?v=_f5cXuAMvI4&t=2150s)
+
           Cón más de 500 personas en línea, en esta charla compartimos acerrca de las iniciativas que se llevan adelante en el BBVA a nivel global con Micro Frontends. La charla corresponde al espacio sponsor del BBVA en Nerdearla 2022 
+
+
 
 
       - layout: left
