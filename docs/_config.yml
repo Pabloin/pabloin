@@ -65,25 +65,6 @@ about_content: | # this will include new lines to allow paragraphs
   mostly in cloud related technologies 
 
 
-
-content:
-  - title: Talks 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Esencial en AWS - Construir una VPC desde cero
-        link: https://www.youtube.com/watch?v=TRKkGYHQumQ
-        caption: 2022
-        sub_title: Maestría en Tecnología y Comunicaciones
-        quote: >
-          Nerdearla 2022
-        description: | # this will include new lines to allow paragraphs
-          En este taller, vamos a crear nuestra VPC en AWS: una Red Privada Virtual en la nube. Y para esto, vamos a iniciar configurando una red desde cero, con Tablas de Ruteo, NACL, Security Groups, etc.. hasta desplegar un sitio web con su base de datos para comprender el funcionamiento de la red.
-          
-
-
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -146,7 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests as software engineering some of my other interests and hobbies are:
-      - Chees player!
+      - Chess player!
       - Love Diving when I have the chance
       - AWS Communit Builder
       - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
