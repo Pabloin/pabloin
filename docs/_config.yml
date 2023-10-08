@@ -66,19 +66,17 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Talks # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Talks
+    layout: list
     content:
       - layout: left
-        title: Nerdearla
-        caption: 2018 - 2020
+        title: Nerdearla 2022
+        caption: October 21, 2022
         sub_title: Maestría en Tecnología y Comunicaciones
         quote: >
-          Universidad Argentina de la Empresa
+          [Esencial en AWS: Construir una VPC desde cero - Pablo Inchausti](https://www.youtube.com/watch?v=TRKkGYHQumQ)
         description: | # this will include new lines to allow paragraphs
-          Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
-
-          After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/) I have the opportunity to became a techer 
+          In this workshop, we are going to build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured
 
       - layout: left
         title: AWS Community Day
@@ -92,8 +90,8 @@ content:
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Glaciar.org
@@ -112,8 +110,8 @@ content:
           I did this project in 2018-2019 as the final Thesis of a Master in Techinolgy 
 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: UADE
@@ -135,8 +133,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: BBVA
