@@ -100,6 +100,17 @@ content:
 
 
 
+      - layout: left
+        title: AWS Community Day
+        caption: 1994 - 2000
+        sub_title: Licenciatura en Ciencias de la Computación
+        quote: >
+          Reinforce Learning in AWS DeepRacer
+        description: | # this will include new lines to allow paragraphs
+          [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+          
+         
+
 
       - layout: left
         title: Nerdearla 2022
@@ -108,20 +119,11 @@ content:
         quote: >
           Esencial en AWS: Construir una VPC desde cero
         description: | 
-          [Esencial en AWS: Construir una VPC desde cero - Pablo Inchausti](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
+          [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
           
           In this workshop, we build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. 
           
           Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured
-
-      - layout: left
-        title: AWS Community Day
-        caption: 1994 - 2000
-        sub_title: Licenciatura en Ciencias de la Computación
-        quote: >
-          Universidad Nacional del Sur
-        description: | # this will include new lines to allow paragraphs
-          A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
 
 
 
