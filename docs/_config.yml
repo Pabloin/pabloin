@@ -76,11 +76,15 @@ content:
       - layout: left
         title: Nerdearla 2022
         caption: October 21, 2022
-        sub_title: Maestría en Tecnología y Comunicaciones
+        sub_title: Argentina
         quote: >
-          [Esencial en AWS: Construir una VPC desde cero - Pablo Inchausti](https://www.youtube.com/watch?v=TRKkGYHQumQ)
-        description: | # this will include new lines to allow paragraphs
-          In this workshop, we are going to build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured
+          Esencial en AWS: Construir una VPC desde cero
+        description: | 
+          [Esencial en AWS: Construir una VPC desde cero - Pablo Inchausti](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
+          
+          In this workshop, we build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. 
+          
+          Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured
 
       - layout: left
         title: AWS Community Day
