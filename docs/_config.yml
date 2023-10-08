@@ -78,8 +78,8 @@ content:
         title: Nerdearla 2023
         caption: 26 sept 2023
         sub_title: Argentina
-        quote: >
-          Racing with AWS DeepRacer Student
+        # quote: >
+        #   Racing with AWS DeepRacer Student
         description: | 
           [Racing with AWS DeepRacer Student](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==) 
           
@@ -90,8 +90,8 @@ content:
         title: Nerdearla 2023
         caption: 27 sept 2023
         sub_title: Argentina
-        quote: >
-          El Ciclo de Testing en Web y Mobile
+        # quote: >
+        #   El Ciclo de Testing en Web y Mobile
         description: | 
           [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
           
@@ -104,8 +104,8 @@ content:
         title: AWS Community Day
         caption: 1994 - 2000
         sub_title: Licenciatura en Ciencias de la Computación
-        quote: >
-          Reinforce Learning in AWS DeepRacer
+        # quote: >
+        #   Reinforce Learning in AWS DeepRacer
         description: | # this will include new lines to allow paragraphs
           [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
           
@@ -116,8 +116,8 @@ content:
         title: Nerdearla 2022
         caption: October 21, 2022
         sub_title: Argentina
-        quote: >
-          Esencial en AWS: Construir una VPC desde cero
+        # quote: >
+        #   Esencial en AWS: Construir una VPC desde cero
         description: | 
           [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
           
