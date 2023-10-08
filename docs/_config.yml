@@ -66,6 +66,32 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
+  - title: Talks # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Nerdearla
+        caption: 2018 - 2020
+        sub_title: Maestría en Tecnología y Comunicaciones
+        quote: >
+          Universidad Argentina de la Empresa
+        description: | # this will include new lines to allow paragraphs
+          Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
+
+          After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/) I have the opportunity to became a techer 
+
+      - layout: left
+        title: AWS Community Day
+        caption: 1994 - 2000
+        sub_title: Licenciatura en Ciencias de la Computación
+        quote: >
+          Universidad Nacional del Sur
+        description: | # this will include new lines to allow paragraphs
+          A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
+
+
+
+content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
