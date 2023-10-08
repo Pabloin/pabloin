@@ -105,22 +105,24 @@ content:
 
       - layout: left
         title: AWS User Group Buenos Aires
-        caption: TBD
+        caption: Agosto 29, 2023
         sub_title: SageMaker
         description: | 
-          [TBD](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+          [Generative AI - SageMaker](https://www.youtube.com/live/JhN0SbRNt64?si=Qq4CNQmGwEgf4M7_&t=2315) 
 
 
 
       - layout: left
-        title: AWS CLoud Practitioner Challenge
+        title: AWS Cloud Practitioner Challenge
         caption: Abril a Junio de 2023
-        sub_title: AWS CLoud Practitioner Challenge
+        sub_title: Presencial, en las oficinas de AWS Argentina
         description: | 
           Con el AWS User Group Bueno Aires dimos el #Challenge para la certificación de Cloud Practitioner
           Con más de 400 usuarios en línea cada semana y casi 80 personas que lograron pasar su certificación
           Transmición en vivo por Youtube e interacción con la comunidad por Discord
           
+          Dictando contenidos:
+
           - [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/watch?v=156Qovhl9tk&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=1) 
 
           - [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2) 
