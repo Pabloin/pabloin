@@ -53,7 +53,7 @@ about_profile_image: images/pablo-ezequiel-inchausti-uade.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
 
-  I like to play chess, and learn about cloud computing in general,
+  I like to play chess, and learn about cloud computing,
   as part of my interest, I am part of the AWS Community Builder Program,
   a great community to learn and share about AWS.
 
@@ -127,7 +127,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests as software engineering some of my other interests and hobbies are:
-      - Chess player!
+      - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin)!
       - Love Diving when I have the chance
       - AWS Communit Builder
       - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
