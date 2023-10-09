@@ -99,13 +99,13 @@ content:
 
 
       - layout: left
-        title: AWS Community Day
+        title: AWS Community Day Argentina
         caption: 16 sept 2023
         sub_title: Universidad Siglo XXI - Cordoba
         description: | 
           [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
 
-
+          Dictado en el AWS Community Day de Argentina, de la charla y el workshop de AWS DeepRacer
 
       - layout: left
         title: AWS User Group Buenos Aires
@@ -178,8 +178,6 @@ content:
           Cón más de 500 personas en línea, en esta charla compartimos acerrca de las iniciativas que se llevan adelante en el BBVA a nivel global con Micro Frontends. La charla corresponde al espacio sponsor del BBVA en Nerdearla 2022 
 
 
-
-
       - layout: left
         title: 50 JAIIO - ASSE
         caption: October 21, 2022
@@ -190,8 +188,14 @@ content:
           Presentamos en la 50 JAIIO la charla de "Micro Frontends" para describir lo que se está haciendo en el BBVA con esta tecnología.
           Espacio Sponsor del BBVA Argentina dentro del Congreso.
 
-
-
+      - layout: left
+        title: BBVA Argentina
+        caption: October 20, 2020
+        sub_title: The Ninja Project
+        description: | 
+          [AWS Essencials - Taller Pre Ninja Hack](AWS Essencials - Taller Pre Ninja Hack) 
+          
+          Workshop de preparación en AWS dirigido a los participantes del Hackathon Ninja del BBVA en los países donde tiene presencia en LATAM: Argentina, Uruguay, Colombia, México, Venezuela, Perú con más de 300 asistentes
 
 
 
