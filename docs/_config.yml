@@ -1,0 +1,283 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Pablo Ezequiel Inchausti
+# title: Software Engineer
+title: Software Engineer at BBVA | Docente UADE | AWS Community Builder
+email: pablo.ezequiel.inchausti@gmail.com
+website: inchausti.ar
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: pab_ezequiel
+github_username:  pabloin
+stackoverflow_username: "5111441"
+linkedin_username: pablo-ezequiel-inchausti
+# youtube_username: globalmtb
+# youtube_username: channel/UCrEf7uSPkgAp4AOs2o5TF9g
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: medium
+  icon: fas fa-globe
+  url: https://pablo-ezequiel.medium.com/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+# about_profile_image: images/pablo_ezequiel_inchausti_gh.jpeg
+about_profile_image: images/pablo-ezequiel-inchausti-uade.png
+about_content: | 
+  Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
+
+  I like to play chess, and learn about cloud computing,
+  as part of my interest, I am part of the AWS Community Builder Program,
+  a great community to learn and share about AWS.
+
+  And I also love share and learn about last technologies trends throught "The Ninja Project", 
+  a great community of ninja's in thech hosted in the company were I work on, BBVA
+
+  I am most skilled in <mark>AWS</mark> and <mark>software development</mark>, 
+  and also [I have some certifications](https://www.credly.com/users/pablo-ezequiel-inchausti/badges), 
+  mostly in cloud related technologies 
+
+
+
+
+content:
+
+
+  - title: Talks
+    layout: list
+    content:
+
+      - layout: left
+        title: Nerdearla 2023
+        caption: 26 sept 2023
+        sub_title: Argentina
+        description: | 
+          [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=4VuGWl57xYc) 
+          
+          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==)
+
+          Workshop de "AWS DeepRacer" junto a Matías Kreder, finalista de AWS DeepRacer en AWS Re:Invent Las Vegas. 
+          Participaron más de 180 personas.
+
+      - layout: left
+        title: Nerdearla 2023
+        caption: 27 sept 2023
+        sub_title: Argentina
+        description: | 
+          [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
+
+          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjU4NQ==)
+          
+          Charla spondor de BBVA Argentina en Nerdearla, Junto a José Antonio Guerrero. Participaron en línea más de 500 personas
+
+
+      - layout: left
+        title: AWS Community Day Argentina
+        caption: 16 sept 2023
+        sub_title: Universidad Siglo XXI - Cordoba
+        description: | 
+          [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+
+          Dictado en el AWS Community Day de Argentina, de la charla y el workshop de AWS DeepRacer
+
+      - layout: left
+        title: AWS User Group Buenos Aires
+        caption: Agosto 29, 2023
+        sub_title: Presencial, en las oficinas de AWS Argentina
+        description: | 
+          [Generative AI - SageMaker](https://www.youtube.com/live/JhN0SbRNt64?si=Qq4CNQmGwEgf4M7_&t=2315) 
+
+          Junto a Ricardo Ceci compartimos contenidos de Inteligencia Artificial en un Meet UP del AWS User Group Buenos Aires, 
+          realizado de forma presencial en las oficinas de AWS Argentina con casi 50 personas presentes.
+          En los contenidos, Ricardo habló sobre "Generative AI" y yo sobre "SageMaker"
+
+      - layout: left
+        title: AWS Cloud Practitioner Challenge
+        caption: Abril a Junio de 2023
+        sub_title: Canal Youtube - AWS User Group Buenos Aires
+        description: | 
+          Con el AWS User Group Bueno Aires dimos el #Challenge para la certificación de Cloud Practitioner
+          Con más de 400 usuarios en línea cada semana y casi 80 personas que lograron pasar su certificación
+          Transmición en vivo por Youtube e interacción con la comunidad por Discord
+          
+          Dictando contenidos:
+
+          - Apr 26, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/live/156Qovhl9tk?si=0QhDLLRqY0GtvR-S&t=1941) 
+
+          - May 3, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2) 
+
+          - May 17, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 3 "EC2"](https://www.youtube.com/watch?v=bXtb3YViJLA&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=4) 
+
+          - May 24, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 4 "AWS Elastic Load Balancers y Auto Scaling"](https://www.youtube.com/watch?v=b4_OMyQHXgU&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=6) 
+
+          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 5 "Storage (EBS, EFS, S3) + Monitoring/Log"](https://www.youtube.com/watch?v=GqYKhnqDDeI&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=7) 
+
+          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 11 "TIPS""](https://www.youtube.com/watch?v=lnPkemd01LM&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=13) 
+
+          Playlist Completa:
+          - [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE](https://www.youtube.com/playlist?list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8)
+
+      - layout: left
+        title: AWS User Group Buenos Aires
+        caption: Febrero 8, 2023
+        sub_title: Canal Youtube "Cloud en Español"
+        description: | 
+          [Recap Re:Invent 2022](https://www.youtube.com/watch?v=jRFe2KXk5AU)
+
+          Junto a Ricardo Ceci y Gastón Silbestein compartimos el re:Cap del evento AWS re:Invent 2022 dirigido a la comunidad de AWS User Group Buenos Aires
+
+
+      - layout: left
+        title: Nerdearla 2022
+        caption: October 21, 2022
+        sub_title: Argentina
+        description: | 
+          [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
+          
+          In this workshop, we build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. 
+          
+          Finally, we will deploy a dynamic web site with their database in the VPC to verify that all is correctly configured.
+          The talk was given in the context of the AWS Community Builder program.
+
+      - layout: left
+        title: Nerdearla 2022
+        caption: October 21, 2022
+        sub_title: Argentina
+        description: | 
+          - [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4) 
+
+          - [Entrevista "En vivo desde Nerdearla"](https://www.youtube.com/watch?v=_f5cXuAMvI4&t=2150s)
+
+          Cón más de 500 personas en línea, en esta charla compartimos acerrca de las iniciativas que se llevan adelante en el BBVA a nivel global con Micro Frontends. La charla corresponde al espacio sponsor del BBVA en Nerdearla 2022 
+
+
+      - layout: left
+        title: 50 JAIIO - ASSE
+        caption: October 21, 2022
+        sub_title: Argentina
+        description: | 
+          [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=1OXVz_mkMX4&t=21372s) 
+          
+          Presentamos en la 50 JAIIO la charla de "Micro Frontends" para describir lo que se está haciendo en el BBVA con esta tecnología.
+          Espacio Sponsor del BBVA Argentina dentro del Congreso.
+
+      - layout: left
+        title: BBVA Argentina
+        caption: October 20, 2020
+        sub_title: The Ninja Project
+        description: | 
+          [AWS Essencials - Taller Pre Ninja Hack](AWS Essencials - Taller Pre Ninja Hack) 
+          
+          Workshop de preparación en AWS dirigido a los participantes del Hackathon Ninja del BBVA en los países donde tiene presencia en LATAM: Argentina, Uruguay, Colombia, México, Venezuela, Perú con más de 300 asistentes
+
+
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Glaciar.org
+        link: github.com/glaciar-org
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is "Glaciar" a software to visualize open data about water and environmental information and give quality information
+        description: | 
+          I did this project in 2018-2019 as the final Thesis of a Master in Techinolgy 
+
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: UADE
+        caption: 2018 - 2020
+        sub_title: Maestría en Tecnología y Comunicaciones
+        quote: >
+          Universidad Argentina de la Empresa
+        description: | 
+          Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
+
+          After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/) I have the opportunity to became a techer 
+
+      - layout: left
+        title: UNS
+        caption: 1994 - 2000
+        sub_title: Licenciatura en Ciencias de la Computación
+        quote: >
+          Universidad Nacional del Sur
+        description: | 
+          A great university in my city, Bahia Blanca, after finished my studies I move to Buenos Aires to start my professional career
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: BBVA
+        link: bbva.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: 2001 - Present
+        quote: >
+          Engineering ~ Argentina
+        description: | 
+          The technology is crucial in the finantial sector and crucial for an excelent client relation. In the bank I worked in may roles related to the digital chanles, like software development web and mobile for retail and corporate, and roles with devops and software architecture 
+
+  - title: A Little More About Me
+    layout: text
+    content: | 
+      Alongside my interests as software engineering some of my other interests and hobbies are:
+      - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin)!
+      - Love Diving when I have the chance
+      - AWS Communit Builder
+      - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
+
+# Look at this cool image  
+# ![Trees](images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
