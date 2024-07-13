@@ -75,6 +75,20 @@ content:
     content:
 
       - layout: left
+        title: Workshop DeepRacer 2024 LATAM
+        caption: 4 Jul 2024
+        sub_title: Argentina
+        description: | 
+          Nuevamente, Junto a Matías Kreder [Workshop DeepRacer 2024 LATAM](https://www.youtube.com/watch?v=3Tij1uN9y6Y)
+
+      - layout: left
+        title: AWS Re:Invent 2023 Recap
+        caption: 29 Enero 2024
+        sub_title: Argentina
+        description: | 
+          [AWS Re:Invent 2023 Recap](https://www.youtube.com/watch?v=lFRTj7PQeTs) junto a Ricardo Ceci, Gastón Silvestein y Martín Ferrini
+
+      - layout: left
         title: Nerdearla 2023
         caption: 26 sept 2023
         sub_title: Argentina
@@ -262,8 +276,8 @@ content:
       Alongside my interests as software engineering some of my other interests and hobbies are:
       - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin)!
       - Love Diving when I have the chance
-      - AWS Communit Builder
-      - [Theres is a Ninja'story on me!](https://www.bbva.com/es/ar/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
+      - AWS Communit Builder & AWS User Group Leader
+      - [There is a Ninja'story on me!](https://www.bbva.com/es/ar/innovacion/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
 
 # Look at this cool image  
 # ![Trees](images/landscape-trees.jpg "Trees")
