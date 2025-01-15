@@ -74,20 +74,6 @@ content:
     layout: list
     content:
 
-
-      - layout: left
-        title: Bootcamp Generative AI 2024 - Responsible AI y Guardarails
-        caption: 10 dic 2024
-        sub_title: Argentina
-        description: | 
-          [Bootcamp Generative AI 2024 - Responsible AI](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522) 
-          
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
-
-          Con el AWS User Group Buenos Aires compartimos un workshop de Generative AI. 
-          En este encuentro hablamos Responsible AI y Seguridad relacionada con Generative AI con Guardarails
-
-
       - layout: left
         title: Nerdearla 2023
         caption: 26 sept 2023
