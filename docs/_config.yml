@@ -226,7 +226,7 @@ content:
         caption: October 21, 2022
         sub_title: Argentina
         description: | 
-          - [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4) 
+          - [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4){:target="_video"} 
 
           - [Entrevista "En vivo desde Nerdearla"](https://www.youtube.com/watch?v=_f5cXuAMvI4&t=2150s)
 
@@ -238,7 +238,7 @@ content:
         caption: October 21, 2022
         sub_title: Argentina
         description: | 
-          [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=1OXVz_mkMX4&t=21372s) 
+          [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=1OXVz_mkMX4&t=21372s){:target="_video"} 
           
           Presentamos en la 50 JAIIO la charla de "Micro Frontends" para describir lo que se está haciendo en el BBVA con esta tecnología.
           Espacio Sponsor del BBVA Argentina dentro del Congreso.
@@ -248,7 +248,7 @@ content:
         caption: October 20, 2020
         sub_title: The Ninja Project
         description: | 
-          [AWS Essencials - Taller Pre Ninja Hack](https://www.youtube.com/watch?v=X8BqUbiZtlM&list=PLMLI9YiS7TLsEEAN-IOU6kz7-DSNsOLu8&index=5) 
+          [AWS Essencials - Taller Pre Ninja Hack](https://www.youtube.com/watch?v=X8BqUbiZtlM&list=PLMLI9YiS7TLsEEAN-IOU6kz7-DSNsOLu8&index=5){:target="_video"} 
           
           Workshop de preparación en AWS dirigido a los participantes del Hackathon Ninja del BBVA en los países donde tiene presencia en LATAM: Argentina, Uruguay, Colombia, México, Venezuela, Perú con más de 300 asistentes
 
@@ -315,10 +315,10 @@ content:
     layout: text
     content: | 
       Alongside my interests as software engineering some of my other interests and hobbies are:
-      - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin)!
+      - Chess player! - May be we could meet on [lichess](https://lichess.org/pabloin){:target="_chess"}!
       - Love Diving when I have the chance
       - AWS Communit Builder and AWS User Group Leader
-      - [There is a Ninja'story on me!](https://www.bbva.com/es/ar/innovacion/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/)
+      - [There is a Ninja'story on me!](https://www.bbva.com/es/ar/innovacion/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/){:target="_noticia"}
 
 # Look at this cool image  
 # ![Trees](images/landscape-trees.jpg "Trees")
