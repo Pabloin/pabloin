@@ -83,7 +83,7 @@ content:
         description: | 
           [Bootcamp Generative AI 2024 - Responsible AI y Guardarails](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522){:target="_video"} 
           
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list){:target="_lin"}
 
           Con el AWS User Group Buenos Aires compartimos un workshop de Generative AI. 
           En este encuentro hablamos Responsible AI y Seguridad relacionada con Generative AI con Guardarails
@@ -94,9 +94,9 @@ content:
         caption: 26 sept 2024
         sub_title: Argentina
         description: | 
-          [AWS Deep Racer: Tips And Tricks](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522){:target="_video"} 
+          [AWS Deep Racer: Tips And Tricks](https://www.youtube.com/watch?v=Bqy1IsRktLk&t=378s){:target="_video"} 
           
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
+          [AWS Community Day Home](https://awsarg.org/#user-groups){:target="_lin"}
 
           En esta charla, se comentarán los "Tips and Tricks" de AWS DeepRacer y entrenar modelos de machine learning
            con tips de "Pro" como utilización de instancias con GPU y uso de DRFC (Deep Racer for Cloud) .
@@ -110,19 +110,19 @@ content:
         description: | 
           [AWS reInvent Recap 2023](https://www.youtube.com/watch?v=lFRTj7PQeTs&t=563s){:target="_video"} 
           
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/298285065/?eventOrigin=group_events_list)
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/298285065/?eventOrigin=group_events_list){:target="_lin"}
 
           re:Cap del evento AWS re:Invent 2023 compartiendo las novedades más importantes y la experiencia de estar ahí.
 
 
       - layout: left
-        title: AWS GameDay Argentina - Córdoba 2023
+        title: AWS GameDay 2023
         caption: 11 octubre 2023
         sub_title: Argentina
         description: | 
-          [Workshop AWS GameDay 2023](https://www.youtube.com/watch?v=X23cQyTUdNw&t=574s){:target="_video"} 
+          [Workshop AWS GameDay 2023 - Buenos Aires - Córdoba](https://www.youtube.com/watch?v=X23cQyTUdNw&t=574s){:target="_video"} 
           
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/296259050/?eventOrigin=group_events_list)
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/296259050/?eventOrigin=group_events_list){:target="_lin"}
 
           Workshop de entrenamiento para el AWS GameDay 2023 organizado en con los User Groups de Buenos Aires y Córdoba.
           Participaron 9 equipos de cuatro personas y se realizó en las instalaciones de Plataforma 10 y Teracloud.
@@ -136,7 +136,7 @@ content:
         description: | 
           [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=Bqy1IsRktLk&t=378s){:target="_video"} 
           
-          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==)
+          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==){:target="_lin"}
 
           Workshop de "AWS DeepRacer" junto a Matías Kreder, finalista de AWS DeepRacer en AWS Re:Invent Las Vegas. 
           Participaron más de 180 personas.
@@ -146,9 +146,10 @@ content:
         caption: 27 sept 2023
         sub_title: Argentina
         description: | 
-          [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
+          [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40){:target="_video"} 
 
-          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjU4NQ==){:target="_video"}
+          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjU4NQ==){:target="_lin"}
+
           
           Charla spondor de BBVA Argentina en Nerdearla, Junto a José Antonio Guerrero. Participaron en línea más de 500 personas
 
@@ -228,7 +229,7 @@ content:
         description: | 
           - [Microfrontends en un Banco Global](https://www.youtube.com/watch?v=hBYgnElAtw4){:target="_video"} 
 
-          - [Entrevista "En vivo desde Nerdearla"](https://www.youtube.com/watch?v=_f5cXuAMvI4&t=2150s)
+          - [Entrevista "En vivo desde Nerdearla"](https://www.youtube.com/watch?v=_f5cXuAMvI4&t=2150s){:target="_lin"}
 
           Cón más de 500 personas en línea, en esta charla compartimos acerrca de las iniciativas que se llevan adelante en el BBVA a nivel global con Micro Frontends. La charla corresponde al espacio sponsor del BBVA en Nerdearla 2022 
 
@@ -286,7 +287,7 @@ content:
         description: | 
           Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
 
-          After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/) I have the opportunity to became a techer 
+          After [finished my studies in UADE](https://www.uade.edu.ar/sites/business-school/maestrias-y-doctorado/maestria-en-tecnologia-informatica-y-de-comunicaciones-tic/testimonios/){:target="_lin"} I have the opportunity to became a techer 
 
       - layout: left
         title: UNS
