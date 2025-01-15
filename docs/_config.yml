@@ -90,11 +90,38 @@ content:
 
 
       - layout: left
+        title: AWS Community Day Argentina 2024
+        caption: 26 sept 2024
+        sub_title: Argentina
+        description: | 
+          [AWS Deep Racer: Tips And Tricks](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522) 
+          
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
+
+          En esta charla, se comentarán los "Tips and Tricks" de AWS DeepRacer y entrenar modelos de machine learning
+           con tips de "Pro" como utilización de instancias con GPU y uso de DRFC (Deep Racer for Cloud) .
+
+
+
+      - layout: left
+        title: AWS reInvent Recap 2023
+        caption: 29 enero 2024
+        sub_title: Argentina
+        description: | 
+          [AWS reInvent Recap 2023](https://www.youtube.com/watch?v=lFRTj7PQeTs&t=563s) 
+          
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/298285065/?eventOrigin=group_events_list)
+
+          re:Cap del evento AWS re:Invent 2023 compartiendo las novedades más importantes y la experiencia de estar ahí.
+
+
+
+      - layout: left
         title: Nerdearla 2023
         caption: 26 sept 2023
         sub_title: Argentina
         description: | 
-          [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=4VuGWl57xYc) 
+          [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=Bqy1IsRktLk&t=378s) 
           
           [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==)
 
