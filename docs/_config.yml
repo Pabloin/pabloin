@@ -115,6 +115,19 @@ content:
           re:Cap del evento AWS re:Invent 2023 compartiendo las novedades más importantes y la experiencia de estar ahí.
 
 
+      - layout: left
+        title: AWS GameDay Argentina - Córdoba 2023
+        caption: 11 octubre 2023
+        sub_title: Argentina
+        description: | 
+          [Workshop AWS GameDay 2023](https://www.youtube.com/watch?v=X23cQyTUdNw&t=574s) 
+          
+          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/296259050/?eventOrigin=group_events_list)
+
+          Workshop de entrenamiento para el AWS GameDay 2023 organizado en con los User Groups de Buenos Aires y Córdoba.
+          Participaron 9 equipos de cuatro personas y se realizó en las instalaciones de Plataforma 10 y Teracloud.
+
+
 
       - layout: left
         title: Nerdearla 2023
