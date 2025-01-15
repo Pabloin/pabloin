@@ -81,7 +81,7 @@ content:
         caption: 10 dic 2024
         sub_title: Argentina
         description: | 
-          [Bootcamp Generative AI 2024 - Responsible AI y Guardarails](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522) 
+          [Bootcamp Generative AI 2024 - Responsible AI y Guardarails](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522){:target="_video"} 
           
           [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
 
@@ -94,7 +94,7 @@ content:
         caption: 26 sept 2024
         sub_title: Argentina
         description: | 
-          [AWS Deep Racer: Tips And Tricks](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522) 
+          [AWS Deep Racer: Tips And Tricks](https://www.youtube.com/live/cNzMwVvgSFg?si=RVFsGp0kIaf88PSB&t=522){:target="_video"} 
           
           [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/305014460/?eventOrigin=group_events_list)
 
@@ -108,7 +108,7 @@ content:
         caption: 29 enero 2024
         sub_title: Argentina
         description: | 
-          [AWS reInvent Recap 2023](https://www.youtube.com/watch?v=lFRTj7PQeTs&t=563s) 
+          [AWS reInvent Recap 2023](https://www.youtube.com/watch?v=lFRTj7PQeTs&t=563s){:target="_video"} 
           
           [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/298285065/?eventOrigin=group_events_list)
 
@@ -120,7 +120,7 @@ content:
         caption: 11 octubre 2023
         sub_title: Argentina
         description: | 
-          [Workshop AWS GameDay 2023](https://www.youtube.com/watch?v=X23cQyTUdNw&t=574s) 
+          [Workshop AWS GameDay 2023](https://www.youtube.com/watch?v=X23cQyTUdNw&t=574s){:target="_video"} 
           
           [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/296259050/?eventOrigin=group_events_list)
 
@@ -134,7 +134,7 @@ content:
         caption: 26 sept 2023
         sub_title: Argentina
         description: | 
-          [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=Bqy1IsRktLk&t=378s) 
+          [Racing with AWS DeepRacer Student](https://www.youtube.com/watch?v=Bqy1IsRktLk&t=378s){:target="_video"} 
           
           [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjYzNA==)
 
@@ -148,7 +148,7 @@ content:
         description: | 
           [El Ciclo de Testing en Web y Mobile](https://www.youtube.com/watch?v=98dxJWUWPFo&list=PLTTdzfRyGY1uK1Ss5R4j_SF63p7qVd0bI&index=40) 
 
-          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjU4NQ==)
+          [swapcard](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjU4NQ==){:target="_video"}
           
           Charla spondor de BBVA Argentina en Nerdearla, Junto a José Antonio Guerrero. Participaron en línea más de 500 personas
 
@@ -158,7 +158,7 @@ content:
         caption: 16 sept 2023
         sub_title: Universidad Siglo XXI - Cordoba
         description: | 
-          [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s) 
+          [Reinforce Learning in AWS DeepRacer](https://www.youtube.com/watch?v=ldPVludPCyw&t=19414s){:target="_video"} 
 
           Dictado en el AWS Community Day de Argentina, de la charla y el workshop de AWS DeepRacer
 
@@ -167,7 +167,7 @@ content:
         caption: Agosto 29, 2023
         sub_title: Presencial, en las oficinas de AWS Argentina
         description: | 
-          [Generative AI - SageMaker](https://www.youtube.com/live/JhN0SbRNt64?si=Qq4CNQmGwEgf4M7_&t=2315) 
+          [Generative AI - SageMaker](https://www.youtube.com/live/JhN0SbRNt64?si=Qq4CNQmGwEgf4M7_&t=2315){:target="_video"} 
 
           Junto a Ricardo Ceci compartimos contenidos de Inteligencia Artificial en un Meet UP del AWS User Group Buenos Aires, 
           realizado de forma presencial en las oficinas de AWS Argentina con casi 50 personas presentes.
@@ -184,27 +184,27 @@ content:
           
           Dictando contenidos:
 
-          - Apr 26, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/live/156Qovhl9tk?si=0QhDLLRqY0GtvR-S&t=1941) 
+          - Apr 26, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 0](https://www.youtube.com/live/156Qovhl9tk?si=0QhDLLRqY0GtvR-S&t=1941){:target="_video"} 
 
-          - May 3, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2) 
+          - May 3, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesion 1 "IAM"](https://www.youtube.com/watch?v=j01Klr4fBkc&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=2){:target="_video"} 
 
-          - May 17, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 3 "EC2"](https://www.youtube.com/watch?v=bXtb3YViJLA&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=4) 
+          - May 17, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 3 "EC2"](https://www.youtube.com/watch?v=bXtb3YViJLA&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=4){:target="_video"} 
 
-          - May 24, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 4 "AWS Elastic Load Balancers y Auto Scaling"](https://www.youtube.com/watch?v=b4_OMyQHXgU&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=6) 
+          - May 24, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 4 "AWS Elastic Load Balancers y Auto Scaling"](https://www.youtube.com/watch?v=b4_OMyQHXgU&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=6){:target="_video"} 
 
-          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 5 "Storage (EBS, EFS, S3) + Monitoring/Log"](https://www.youtube.com/watch?v=GqYKhnqDDeI&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=7) 
+          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 5 "Storage (EBS, EFS, S3) + Monitoring/Log"](https://www.youtube.com/watch?v=GqYKhnqDDeI&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=7){:target="_video"} 
 
-          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 11 "TIPS""](https://www.youtube.com/watch?v=lnPkemd01LM&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=13) 
+          - Jul 12, 2023 [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE Sesión 11 "TIPS""](https://www.youtube.com/watch?v=lnPkemd01LM&list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8&index=13){:target="_video"} 
 
           Playlist Completa:
-          - [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE](https://www.youtube.com/playlist?list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8)
+          - [AWS UG BS AS: AWS CLOUD PRACTITIONER CHALLENGE](https://www.youtube.com/playlist?list=PLMg_LIgq4KWfR3bBVwgayGVuhbDItJzp8){:target="_video"}
 
       - layout: left
         title: AWS User Group Buenos Aires
         caption: Febrero 8, 2023
         sub_title: Canal Youtube "Cloud en Español"
         description: | 
-          [Recap Re:Invent 2022](https://www.youtube.com/watch?v=jRFe2KXk5AU)
+          [Recap Re:Invent 2022](https://www.youtube.com/watch?v=jRFe2KXk5AU){:target="_video"}
 
           Junto a Ricardo Ceci y Gastón Silbestein compartimos el re:Cap del evento AWS re:Invent 2022 dirigido a la comunidad de AWS User Group Buenos Aires
 
@@ -214,7 +214,7 @@ content:
         caption: October 21, 2022
         sub_title: Argentina
         description: | 
-          [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ) 
+          [Esencial en AWS: Construir una VPC desde cero](https://www.youtube.com/watch?v=TRKkGYHQumQ){:target="_video"} 
           
           In this workshop, we build a VPC from scratch in AWS. While we are creating the VPC, we will be learning about Route Tables, NACL, Security Groups, Nat Gateways and Nat Instances, Ephemeral ports, and more. 
           
