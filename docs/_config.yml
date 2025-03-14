@@ -59,10 +59,6 @@ about_content: |
   and the AWS User Group Leader in Buenos Aires. I believe that communities 
   are one of the best ways to learn and grow together in the AWS ecosystem
 
-  
-  And I also love share and learn about last technologies trends throught "The Ninja Project", 
-  a great community of ninja's in thech hosted in the company were I work on, BBVA
-
   I am most skilled in <mark>AWS</mark> and <mark>software development</mark>, 
   and also [I am certified](https://www.credly.com/users/pablo-ezequiel-inchausti/badges){:target="_credly"}, 
   mostly in cloud related technologies 
@@ -319,11 +315,16 @@ content:
         link: bbva.com
         # link_text: boringcompany.com
         sub_title: Software Engineer
-        caption: 2001 - Present
+        caption: 2001 - 2024
         quote: >
           Engineering ~ Argentina
         description: | 
-          The technology is crucial in the finantial sector and crucial for an excelent client relation. In the bank I worked in may roles related to the digital chanles, like software development web and mobile for retail and corporate, and roles with devops and software architecture 
+          The technology is crucial in the finantial sector and crucial for an excelent client relation. 
+          In the bank I worked in may roles related to the digital chanles, like software development web and mobile for retail and corporate, 
+          and roles with devops and software architecture.
+
+          Also I was part of ["The Ninja Project"](https://www.bbva.com/es/ar/innovacion/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/){:target="_noticia"} 
+          a great community of ninja's in thech hosted in the company were I worked on, BBVA
 
   - title: A Little More About Me
     layout: text
