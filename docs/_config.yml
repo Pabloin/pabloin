@@ -296,11 +296,7 @@ content:
         description: | 
           Study in UADE was not only return to the university, but also a grow up time in personal and profeesional way
 
-          After finished my studies in UADE I have the opportunity to became a University Professor in Computer Engineer, 
-          on "Software Architecture", "Application Integration" and "Computer Engineer Capstone Project" (The Thesis)
-
-          From December 2024 to March 2025, I served as the Engineering Director for Computer Engineering at UADE, 
-          a program with 5,000 students and 1,200 new enrollments each year.
+          
 
       - layout: left
         title: UNS
@@ -329,6 +325,24 @@ content:
 
           Also I was part of ["The Ninja Project"](https://www.bbva.com/es/ar/innovacion/el-primer-cinturon-negro-del-proyecto-ninja-de-bbva/){:target="_noticia"} 
           a great community of ninja's in thech hosted in the company were I worked on, BBVA
+
+
+      - layout: left
+        title: UADE
+        link: uade.edu.ar
+        # link_text: boringcompany.com
+        sub_title: University Professor
+        caption: 2020 - 2025
+        quote: >
+          Computer Engineering ~ University Professor
+        description: | 
+          After finished my studies in UADE I have the opportunity to became a University Professor in Computer Engineer, 
+          on "Software Architecture", "Application Integration" and "Computer Engineer Capstone Project" (The Thesis)
+
+          From December 2024 to March 2025, I served as the Engineering Director for Computer Engineering at UADE, 
+          a program with 5,000 students and 1,200 new enrollments each year.
+
+
 
   - title: A Little More About Me
     layout: text
