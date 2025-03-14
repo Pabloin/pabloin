@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Pablo Ezequiel Inchausti
 # title: Software Engineer
-title: Software Engineer | University Professor | AWS Community Builder
+title: Software Engineer at BBVA | Docente UADE | AWS Community Builder
 email: pablo.ezequiel.inchausti@gmail.com
 website: inchausti.ar
 
@@ -20,7 +20,7 @@ twitter_username: pab_ezequiel
 github_username:  pabloin
 stackoverflow_username: "5111441"
 linkedin_username: pablo-ezequiel-inchausti
-youtube_username: www.youtube.com/@pabloezequielinchausti
+youtube_username: channel/UCrEf7uSPkgAp4AOs2o5TF9g
 # youtube_username: globalmtb
 # youtube_username: channel/UCrEf7uSPkgAp4AOs2o5TF9g
 # dribbble_username: jekyll
@@ -54,12 +54,10 @@ about_profile_image: images/pablo-ezequiel-inchausti-uade.png
 about_content: | 
   Hi, my name's Pablo Ezequiel Inchausti and I'm a software engineer. 
 
-  I like playing chess and grow up in cloud computing. 
-  As part of my interests, I am a member of the AWS Community Builder Program 
-  and the AWS User Group Leader in Buenos Aires. I believe that communities 
-  are one of the best ways to learn and grow together in the AWS ecosystem
+  I like to play chess, and learn about cloud computing,
+  as part of my interest, I am part of the AWS Community Builder Program,
+  a great community to learn and share about AWS.
 
-  
   And I also love share and learn about last technologies trends throught "The Ninja Project", 
   a great community of ninja's in thech hosted in the company were I work on, BBVA
 
@@ -77,17 +75,6 @@ content:
     layout: list
     content:
 
-
-      - layout: left
-        title: AWS User Group Buenos Aires
-        caption: 6 mar 2025
-        sub_title: Argentina
-        description: | 
-          [re:Cap 2024](https://www.youtube.com/watch?v=esxSdLmAVgk&t=420s){:target="_video"} 
-          
-          [meetup](https://www.meetup.com/aws-user-group-buenos-aires/events/306401321/?eventOrigin=group_past_events){:target="_lin"}
-
-          Recap de todos los anuncios de re:Invent 2024
 
       - layout: left
         title: AWS User Group Buenos Aires
